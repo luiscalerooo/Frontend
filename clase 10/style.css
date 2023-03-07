@@ -1,0 +1,148 @@
+.encabezado {
+    background-color: #1CD1B0;
+    padding: 10px;
+    margin-left: 0%;
+    margin: 0px;
+    width: 100%;
+}
+
+h1 {
+    position: fixed;
+    top: 43px;
+    margin-left: 0%;
+    width: 100%;
+    background-color: #00669F;
+    font-size: 50px;
+    padding: 27px;
+    margin: 0px;
+}
+
+.seccion1 {
+    margin-top: 180px;
+    margin-left: 150px;
+    margin-bottom: 70px;
+
+}
+
+.info1 {
+    background-color: #F3F3F3;
+    border-radius: 5%;
+    width: 400px;
+    height: 750px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+
+}
+
+.info2 {
+    background-color: #F3F3F3;
+    border-radius: 5%;
+    width: 400px;
+    height: 750px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+
+}
+
+.info3 {
+    background-color: #F3F3F3;
+    border-radius: 5%;
+    width: 400px;
+    height: 750px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+
+}
+
+
+.img1 {
+    position: absolute;
+    top: 420px;
+    left: 19%;
+
+}
+
+.img2 {
+    width: 100%;
+}
+
+.img9 {
+    position: absolute;
+    top: 250px;
+    left: 11%;
+    width: 60px;
+    height: 60px;
+
+}
+
+.img4 {
+    position: absolute;
+    top: 420px;
+    left: 45%;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+
+}
+
+.img3 {
+    width: 100%;
+
+}
+
+.img6 {
+    width: 100%;
+}
+
+.img7 {
+    position: absolute;
+    top: 420px;
+    left: 70%;
+}
+
+.img10 {
+    position: absolute;
+    top: 250px;
+    left: 37%;
+    width: 60px;
+    height: 60px;
+}
+
+.img11 {
+    position: absolute;
+    top: 250px;
+    left: 63%;
+    width: 60px;
+    height: 60px;
+}
+
+.texto3 {
+    display: inline-block;
+    background-color: #00669F;
+    text-decoration: none;
+    border: solid 2px black;
+    padding: 10px 20px;
+    margin: 0%;
+}
+
+.texto2 {
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 16px;
+    margin-right: 10px;
+}
+
+.footer {
+    background-color: #00669F;
+    width: 100%;
+    color: #FFF9F9;
+    padding: 10px;
+    padding-left: 25px;
+}
